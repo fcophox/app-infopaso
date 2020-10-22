@@ -1,0 +1,379 @@
+.feed {
+    margin: 0 auto;
+    display: inline-block;
+    width: 100%;
+}
+
+.elbow {
+    margin: 0 auto;
+    text-align: center;
+    background: url('../img/sprite/codito.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 120px;
+    width: 120px;
+    cursor: pointer;
+    //position: absolute;
+    //left: 0px;
+    background-size: 3760; //actual background size 2900px
+
+}
+
+.elbow:hover {
+    background-position: right; //displaying last elbow frame 
+}
+
+.likeCount {}
+
+.elbow {}
+
+
+
+@-webkit-keyframes elbowBlast {
+    0% {
+        background-position: left;
+    }
+
+    100% {
+        background-position: right;
+    }
+}
+
+@keyframes elbowBlast {
+    0% {
+        background-position: left;
+    }
+
+    100% {
+        background-position: right;
+    }
+}
+
+.elbowAnimation {
+    -webkit-animation-name: elbowBlast; //webkit broswers
+    animation-name: elbowBlast;
+    -webkit-animation-duration: .2s;
+    animation-duration: .2s;
+    -webkit-animation-iteration-count: 0.3s;
+    animation-iteration-count: 0.3s;
+    -webkit-animation-timing-function: steps(16); //background frames count 28
+    animation-timing-function: steps(16);
+    background-position: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.codoLike {
+    margin: 0 auto;
+    text-align: center;
+
+    .codo {}
+
+    .destacado {
+        margin: 1em 0em;
+        color: $color-1;
+        font-weight: bold;
+    }
+
+    .infocodo {
+        font-size: 0.6em;
+        color: $color-2;
+    }
+}
+
+.mail {
+    font-size: 0.8em;
+    font-weight: bold;
+    color: $color-1;
+    letter-spacing: 0.1em;
+}
+
+
+
+
+
+
+
+
+
+#main-content {
+    display: flex;
+    width: 100vw;
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+svg {
+    cursor: pointer;
+    overflow: visible;
+    width: 60px;
+
+    #elbow {
+        transform-origin: center;
+        animation: animateelbowOut .3s linear forwards;
+    }
+
+    #main-circ {
+        transform-origin: 29.5px 29.5px;
+    }
+}
+
+#checkbox {
+    display: none;
+}
+
+#checkbox:checked+label svg {
+    #elbow {
+        transform: scale(.2);
+        fill: #E2264D;
+        animation: animateelbow .3s linear forwards .25s;
+    }
+
+    #main-circ {
+        transition: all 2s;
+        animation: animateCircle .3s linear forwards;
+        opacity: 1;
+    }
+
+    #grp1 {
+        opacity: 1;
+        transition: .1s all .3s;
+
+        #oval1 {
+            transform: scale(0) translate(0, -30px);
+            transform-origin: 0 0 0;
+            transition: .5s transform .3s;
+        }
+
+        #oval2 {
+            transform: scale(0) translate(10px, -50px);
+            transform-origin: 0 0 0;
+            transition: 1.5s transform .3s;
+        }
+    }
+
+    #grp2 {
+        opacity: 1;
+        transition: .1s all .3s;
+
+        #oval1 {
+            transform: scale(0) translate(30px, -15px);
+            transform-origin: 0 0 0;
+            transition: .5s transform .3s;
+        }
+
+        #oval2 {
+            transform: scale(0) translate(60px, -15px);
+            transform-origin: 0 0 0;
+            transition: 1.5s transform .3s;
+        }
+    }
+
+    #grp3 {
+        opacity: 1;
+        transition: .1s all .3s;
+
+        #oval1 {
+            transform: scale(0) translate(30px, 0px);
+            transform-origin: 0 0 0;
+            transition: .5s transform .3s;
+        }
+
+        #oval2 {
+            transform: scale(0) translate(60px, 10px);
+            transform-origin: 0 0 0;
+            transition: 1.5s transform .3s;
+        }
+    }
+
+    #grp4 {
+        opacity: 1;
+        transition: .1s all .3s;
+
+        #oval1 {
+            transform: scale(0) translate(30px, 15px);
+            transform-origin: 0 0 0;
+            transition: .5s transform .3s;
+        }
+
+        #oval2 {
+            transform: scale(0) translate(40px, 50px);
+            transform-origin: 0 0 0;
+            transition: 1.5s transform .3s;
+        }
+    }
+
+    #grp5 {
+        opacity: 1;
+        transition: .1s all .3s;
+
+        #oval1 {
+            transform: scale(0) translate(-10px, 20px);
+            transform-origin: 0 0 0;
+            transition: .5s transform .3s;
+        }
+
+        #oval2 {
+            transform: scale(0) translate(-60px, 30px);
+            transform-origin: 0 0 0;
+            transition: 1.5s transform .3s;
+        }
+    }
+
+    #grp6 {
+        opacity: 1;
+        transition: .1s all .3s;
+
+        #oval1 {
+            transform: scale(0) translate(-30px, 0px);
+            transform-origin: 0 0 0;
+            transition: .5s transform .3s;
+        }
+
+        #oval2 {
+            transform: scale(0) translate(-60px, -5px);
+            transform-origin: 0 0 0;
+            transition: 1.5s transform .3s;
+        }
+    }
+
+    #grp7 {
+        opacity: 1;
+        transition: .1s all .3s;
+
+        #oval1 {
+            transform: scale(0) translate(-30px, -15px);
+            transform-origin: 0 0 0;
+            transition: .5s transform .3s;
+        }
+
+        #oval2 {
+            transform: scale(0) translate(-55px, -30px);
+            transform-origin: 0 0 0;
+            transition: 1.5s transform .3s;
+        }
+    }
+
+    #grp2 {
+        opacity: 1;
+        transition: .1s opacity .3s;
+    }
+
+    #grp3 {
+        opacity: 1;
+        transition: .1s opacity .3s;
+    }
+
+    #grp4 {
+        opacity: 1;
+        transition: .1s opacity .3s;
+    }
+
+    #grp5 {
+        opacity: 1;
+        transition: .1s opacity .3s;
+    }
+
+    #grp6 {
+        opacity: 1;
+        transition: .1s opacity .3s;
+    }
+
+    #grp7 {
+        opacity: 1;
+        transition: .1s opacity .3s;
+    }
+}
+
+@keyframes animateCircle {
+    40% {
+        transform: scale(10);
+        opacity: 1;
+        fill: #DD4688;
+    }
+
+    55% {
+        transform: scale(11);
+        opacity: 1;
+        fill: #D46ABF;
+    }
+
+    65% {
+        transform: scale(12);
+        opacity: 1;
+        fill: #CC8EF5;
+    }
+
+    75% {
+        transform: scale(13);
+        opacity: 1;
+        fill: transparent;
+        stroke: #CC8EF5;
+        stroke-width: .5;
+    }
+
+    85% {
+        transform: scale(17);
+        opacity: 1;
+        fill: transparent;
+        stroke: #CC8EF5;
+        stroke-width: .2;
+    }
+
+    95% {
+        transform: scale(18);
+        opacity: 1;
+        fill: transparent;
+        stroke: #CC8EF5;
+        stroke-width: .1;
+    }
+
+    100% {
+        transform: scale(19);
+        opacity: 1;
+        fill: transparent;
+        stroke: #CC8EF5;
+        stroke-width: 0;
+    }
+}
+
+@keyframes animateelbow {
+    0% {
+        transform: scale(.2);
+    }
+
+    40% {
+        transform: scale(1.2);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes animateelbowOut {
+    0% {
+        transform: scale(1.4);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

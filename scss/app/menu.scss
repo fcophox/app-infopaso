@@ -1,0 +1,101 @@
+footer {
+    height: 60px;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0.5em;
+
+
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr;
+        gap: 0px 0px;
+        grid-template-areas:
+            "btnMenuA btnMenuB btnMenuC btnMenuD btnMenuE";
+    }
+
+    .btnMenu {
+        margin: 0em 0.5em;
+
+
+        a {
+            width: 50px;
+            height: 50px;
+            background-color: white;
+            margin: 5px;
+            padding: 10px;
+            -webkit-border-radius: 50px;
+            -moz-border-radius: 50px;
+            border-radius: 50px;
+            font-size: 11px;
+            line-height: 32px;
+            text-transform: uppercase;
+            float: left;
+            box-shadow: -3px -3px 5px rgba(72, 80, 99, 0.03), 3px 3px 12px rgba(24, 28, 39, 0.04);
+
+            &:hover {
+                box-shadow: -3px -3px 5px rgba(72, 80, 99, 0.06), 3px 3px 12px rgba(24, 28, 39, 0.06);
+                background-color: $menu;
+            }
+
+            img {
+                width: 24px;
+                height: 24px;
+                opacity: 0.4;
+
+                &:hover {
+                    opacity: 1;
+                }
+            }
+
+        }
+    }
+
+    .btnMenuA {
+        grid-area: btnMenuA;
+        align-self: center;
+        justify-self: center;
+    }
+
+    .btnMenuB {
+        grid-area: btnMenuB;
+        align-self: center;
+        justify-self: center;
+    }
+
+    .btnMenuC {
+        grid-area: btnMenuC;
+        align-self: center;
+        justify-self: center;
+    }
+
+    .btnMenuD {
+        grid-area: btnMenuD;
+        align-self: center;
+        justify-self: center;
+    }
+
+    .btnMenuE {
+        grid-area: btnMenuE;
+        align-self: center;
+        justify-self: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

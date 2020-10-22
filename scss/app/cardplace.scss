@@ -1,0 +1,60 @@
+.app {
+
+
+
+    .cardPlace {
+        padding: 0.5em;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 20px rgba(72, 80, 99, 0.16);
+        border-radius: 0.5em;
+        width: 100%;
+        margin-top: 0.5em;
+        margin-bottom: 0.8em;
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 0.3fr;
+            grid-template-rows: 1fr;
+            gap: 0px 0px;
+            grid-template-areas:
+                "infoCardPlace stateCardPlace";
+        }
+
+        .infoCardPlace {
+            grid-area: infoCardPlace;
+            align-self: center;
+            justify-self: left;
+            margin-left: 0.4em;
+
+            .dataName {
+                color: $color-1;
+                font-weight: bold;
+                font-size: 1em;
+                padding: 0px;
+                margin: 0px;
+                letter-spacing: 0.1em;
+            }
+
+            .dataSeg {
+                color: $color-2;
+                font-weight: normal;
+                font-size: 0.8em;
+                padding: 0px;
+                margin: 0px;
+                letter-spacing: 0.1em;
+            }
+        }
+
+        .stateCardPlace {
+            grid-area: stateCardPlace;
+            align-self: center;
+            justify-self: right;
+            margin-right: 0.4em;
+
+            .dataState {
+                max-width: 66px;
+                max-height: 66px;
+            }
+        }
+    }
+}

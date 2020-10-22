@@ -1,0 +1,116 @@
+/* ==========================================================================
+   estilos
+   ========================================================================== */
+
+
+
+// Custom Colors
+
+
+
+
+@import 'variabless.scss';
+@import 'app/app.scss';
+@import 'app/nav.scss';
+@import 'app/buscador.scss';
+
+
+@import 'app/cardplace.scss';
+@import 'app/cardplaceinfo.scss';
+@import 'app/menu.scss';
+
+@import 'app/emptystate.scss';
+
+
+@import 'app/btnLike.scss';
+
+
+
+
+
+
+
+
+
+
+body {
+    background-color: $color-3;
+    font-size: 18px;
+    font-family: $font;
+}
+
+a {
+    transition: 0.3s all;
+}
+
+
+
+.container {
+    max-width: 630px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.btnVolver {
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+    a {
+        text-decoration: none;
+
+        img {
+            display: inline-block;
+        }
+
+        p {
+            display: inline-block;
+
+            color: $color-6;
+            font-weight: bold;
+            font-size: 0.8em;
+            padding: 0px;
+            margin: 0px;
+            letter-spacing: 0.1em;
+        }
+    }
+}
+
+.title-section {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    //display: none;
+
+    p {
+        color: $color-1;
+        font-weight: bold;
+        font-size: 1.2em;
+        padding: 0px;
+        margin: 0px;
+        letter-spacing: 0.1em;
+    }
+
+}
+
+.parrafo-section {
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+    p {
+        color: $color-6;
+        font-weight: bold;
+        font-size: 0.8em;
+        padding: 0px;
+        margin: 0px;
+        letter-spacing: 0.1em;
+    }
+
+
+}
+
+.logotipoRukma {
+    text-align: center;
+    margin: 0 auto !important;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}

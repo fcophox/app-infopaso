@@ -1,0 +1,44 @@
+.emptyState {
+    padding: 0.5em;
+    //background-color: $color-3;
+    //box-shadow: 0px 0px 20px rgba(72, 80, 99, 0.16);
+    border-radius: 0.5em;
+    width: 100%;
+    margin-top: 0.5em;
+    margin-bottom: 0.8em;
+    //border: 2px dotted $color-5;
+
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 0.5fr;
+        gap: 0px 0px;
+        grid-template-areas:
+            "iconBlankState"
+            "infoBlankState";
+    }
+
+    .iconBlankState {
+        grid-area: iconBlankState;
+        align-self: center;
+        justify-self: center;
+
+    }
+
+    .infoBlankState {
+        grid-area: infoBlankState;
+        align-self: center;
+        justify-self: center;
+
+        .dataSeg {
+            color: $color-6;
+            font-weight: bold;
+            font-size: 0.8em;
+            padding: 0px;
+            margin: 0px;
+            letter-spacing: 0.1em;
+        }
+
+    }
+}
