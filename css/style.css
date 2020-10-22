@@ -139,6 +139,7 @@ nav {
   color: #366EFC; }
 
 .buscador .search_icon {
+  border: 0px solid white;
   height: 40px;
   width: 40px;
   float: right;

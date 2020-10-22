@@ -1,0 +1,22 @@
+[
+  {
+    "comuna": "Aisén",
+    "paso": 4,
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Algarrobo",
+    "paso": 3,
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Alhué",
+    "paso": 3,
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Alto Biobío",
+    "paso": 3,
+    "estado": "Preparación"
+  }
+]

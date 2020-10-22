@@ -1,0 +1,1727 @@
+[
+  {
+    "comuna": "Aisén",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Algarrobo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Alhué",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Alto Biobío",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Alto del Carmen",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Alto Hospicio",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Ancud",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Andacollo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Angol",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Antofagasta",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Antuco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Arauco",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Arica",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Buin",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Bulnes",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cabildo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cabo de Hornos",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cabrero",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Calama",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Calbuco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Caldera",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Calera",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Calera de Tango",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Calle Larga",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Camarones",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Camiña",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Canela",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cañete",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Carahue",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Cartagena",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Casablanca",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Castro",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Catemu",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cauquenes",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cerrillos",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cerro Navia",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Chaitén",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Chanco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Chañaral",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Chepica",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Chiguayante",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Chile Chico",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Chillán",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Chillán Viejo",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Chimbarongo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cholchol",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Chonchi",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Cisnes",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Cobquecura",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cochamó",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Cochrane",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Codegua",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Coelemu",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Coihueco",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Coinco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Colbún",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Colchane",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Colina",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura inicial"
+  },
+  {
+    "comuna": "Collipulli",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Coltauco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Combarbalá",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Con Con",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Concepción",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Conchalí",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Constitución",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Contulmo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Copiapó",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Coquimbo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Coronel",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Corral",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Coyhaique",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Cunco",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Curacautín",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Curacaví",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura inicial"
+  },
+  {
+    "comuna": "Curaco de Vélez",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Curanilahue",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Curarrehue",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Curepto",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Curicó",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Dalcahue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Diego de Almagro",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Doñihue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "El Bosque",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "El Carmen",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "El Monte",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "El Quisco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "El Tabo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Empedrado",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Ercilla",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Estación Central",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Florida",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Freire",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Freirina",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Fresia",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Frutillar",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Futaleufú",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Futrono",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Galvarino",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "General Lagos",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Gorbea",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Graneros",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Guaitecas",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Hijuelas",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Hualaihué",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Hualañé",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Hualpén",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Hualqui",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Huara",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Huasco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Huechuraba",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Illapel",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Independencia",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Iquique",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Isla de Maipo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Isla de Pascua",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Juan Fernández",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "La Cisterna",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "La Cruz",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "La Estrella",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "La Florida",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "La Granja",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "La Higuera",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "La Ligua",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "La Pintana",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "La Reina",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "La Serena",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "La Unión",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Lago Ranco",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Lago Verde",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Laguna Blanca",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Laja",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Lampa",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Lanco",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Las Cabras",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Las Condes",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Lautaro",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Lebu",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Licantén",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Limache",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Linares",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Litueche",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Llaillay",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Llanquihue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Lo Espejo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Lo Prado",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Lolol",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Loncoche",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Longaví",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Lonquimay",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Los Álamos",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Los Andes",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Los Ángeles",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Los Lagos",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Los Muermos",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Los Sauces",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Los Vilos",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Lota",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Lumaco",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Machalí",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Macul",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Máfil",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Maipú",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Malloa",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Marchihue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Maria Elena",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Maria Pinto",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura inicial"
+  },
+  {
+    "comuna": "Mariquina",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Maule",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Maullín",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Mejillones",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Melipeuco",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Melipilla",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Molina",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Monte Patria",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Mostazal",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Mulchén",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Nacimiento",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Nancagua",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Natales",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Navidad",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Negrete",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Ninhue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Nogales",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Nueva Imperial",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Ñiquén",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Ñuñoa",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "O'Higgins",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Olivar",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Ollagüe",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Olmué",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Osorno",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Ovalle",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Padre Hurtado",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Padre Las Casas",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Paiguano",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Paillaco",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Paine",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Palena",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Palmilla",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Panguipulli",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Panquehue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Papudo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Paredones",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Parral",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pelarco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pelluhue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pemuco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pencahue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Penco",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Peñaflor",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Peñalolén",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Peralillo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Perquenco",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Petorca",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Peumo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pica",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pichidegua",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Pichilemu",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pinto",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pirque",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura inicial"
+  },
+  {
+    "comuna": "Pitrufquén",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Placilla",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Portezuelo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Porvenir",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Pozo Almonte",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Primavera",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Providencia",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Puchuncaví",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pucón",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Pudahuel",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Puente Alto",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Puerto Montt",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Puerto Octay",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Puerto Varas",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Pumanque",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Punitaqui",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Punta Arenas",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Puqueldón",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Purén",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Purranque",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Putaendo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Putre",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Puyehue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Queilén",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quellón",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quemchi",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quilaco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quilicura",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quilleco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quillón",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quillota",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quilpue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quinchao",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quinta de Tilcoco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quinta Normal",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quintero",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Quirihue",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Rancagua",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Ránquil",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Rauco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Recoleta",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Renaico",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Renca",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Rengo",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Requínoa",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Retiro",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Rinconada",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Río Bueno",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Río Claro",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Río Hurtado",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Río Ibáñez",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Río Negro",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Río Verde",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Romeral",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Saavedra",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Sagrada Familia",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Salamanca",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Antonio",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Bernardo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Carlos",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Clemente",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "San Esteban",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Fabián",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Felipe",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Fernando",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "San Gregorio",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Ignacio",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Javier",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Joaquín",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San José de Maipo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Juan de la Costa",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "San Miguel",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "San Nicolás",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Pablo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Pedro",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura inicial"
+  },
+  {
+    "comuna": "San Pedro de Atacama",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Pedro de la Paz",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "San Rafael",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "San Ramón",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "San Rosendo",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "San Vicente",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Santa Bárbara",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Santa Cruz",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Santa Juana",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Santa Maria",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Santiago",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Santo Domingo",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Sierra Gorda",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Talagante",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Talca",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Zona Urbana en transición"
+  },
+  {
+    "comuna": "Talcahuano",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Taltal",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Temuco",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Teno",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Teodoro Schmidt",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Tierra Amarilla",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Tiltil",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura inicial"
+  },
+  {
+    "comuna": "Timaukel",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Tirúa",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Tocopilla",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Toltén",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Tome",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Torres del Paine",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Tortel",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Traiguén",
+    "paso": "img/state/c-paso-4.svg",
+    "estado": "Apertura Inicial"
+  },
+  {
+    "comuna": "Treguaco",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Tucapel",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Valdivia",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Vallenar",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Valparaiso",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Vichuquén",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Victoria",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Vicuña",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Vilcún",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Villa Alegre",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Villa Alemana",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Villarrica",
+    "paso": "img/state/c-paso-1.svg",
+    "estado": "Cuarentena"
+  },
+  {
+    "comuna": "Viña del Mar",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Vitacura",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Yerbas Buenas",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Yumbel",
+    "paso": "img/state/c-paso-2.svg",
+    "estado": "Transición"
+  },
+  {
+    "comuna": "Yungay",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  },
+  {
+    "comuna": "Zapallar",
+    "paso": "img/state/c-paso-3.svg",
+    "estado": "Preparación"
+  }
+]
